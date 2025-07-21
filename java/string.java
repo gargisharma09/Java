@@ -6,8 +6,9 @@ public class string {
         String greeting = "Hello, World!";
 
         // Print the string
-        System.out.println(greeting);
+        String anotherGreeting= new String("Hello, Java!");
+        System.out.println(anotherGreeting);
     }
-    
+
     
 }
