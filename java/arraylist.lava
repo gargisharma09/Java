@@ -1,0 +1,19 @@
+import java.util.*;
+class arraylist
+
+public static void main(string ar[])
+{
+    ArrayList<string> ob = new ArrayList();
+    ob.add("Data 1");
+    ob.add("Data 2");
+    ob.add("Data 3");
+    ob.add("Data 4");
+    ob.add("Data 5");
+    System.out.println(ob);
+    ob.remove(0);
+    ob.remove("Data 4");
+    System.out.println(ob);
+    ob.set(1,"My DATA SET 3");
+    System.out.println(ob);
+    
+}

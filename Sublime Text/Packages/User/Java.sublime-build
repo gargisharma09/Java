@@ -1,0 +1,6 @@
+
+	{
+    "cmd": ["cmd", "/c", "javac ${file} && java ${file_base_name}"],
+    "selector": "source.java"
+}
+
