@@ -64,7 +64,7 @@ public class ListArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println(" Welcome to LPU theaters");
+        System.out.println(" Welcome to sharma theaters");
 
         int paramSundri = 12;
         int stuartLittle = 10;
@@ -149,7 +149,7 @@ public class ListArray {
                 System.out.println("\n Available Seats:");
                 System.out.println("Param Sundri: " + paramSundri);
                 System.out.println("Stuart Little: " + stuartLittle);
-                System.out.println("Sita Ramam: " + sitaRamam);
+                System.out.println("Sita Ramam: " + );
             }
 
             else {
